@@ -3,10 +3,10 @@
 
 using namespace std;
 
+//TASK 18
 //int main()
 //{
-// TASK 18
-// 
+
 //	int a;
 //	int min = 2147483647;
 //	int max = -2147483648;
@@ -33,9 +33,9 @@ using namespace std;
 //	}
 //}
 
+//TASK27
 //int main() {
-// TASK 27
-//
+
 //	for (int i = 1; i <= 1000; i++)
 //	{
 //		if (i % 5 == 0 && i % 2 != 0)
@@ -45,8 +45,8 @@ using namespace std;
 //	}
 //}
 
+//TASK9
 int main() {
-// TASK 9
 	int a, b, c;
 
 	cin >> a >> b >> c;
